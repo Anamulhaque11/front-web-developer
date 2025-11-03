@@ -1,5 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:  #0F172A;
+    color:  #E2E8F0;
+}
+
+header{
+     background: linear-gradient(90deg, #2563EB, #9333EA);
+    color: #F9FAFB;
+    height: 50px;
+}
+
 .container{
     background-color: blue;
     color: white;
     padding: 20px;
+    margin-top: 40px;
 }
